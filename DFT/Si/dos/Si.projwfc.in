@@ -1,5 +1,0 @@
-&projwfc
- prefix = 'si'
- outdir = '../tmp'
- degauss = 0.01
-/
